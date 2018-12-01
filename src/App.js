@@ -9,7 +9,9 @@ class App extends Component {
 					<p>
 						Edit <code>src/App.js</code> and save to reload.
 					</p>
-					<div className="App-link">I was changed!</div>
+					<div className="App-link">
+						Change application name!
+					</div>
 				</header>
 			</div>
 		);
